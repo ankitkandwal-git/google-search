@@ -1,0 +1,20 @@
+.suggestion-item{
+    list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+}
+.paragraph{
+    color : #475569;
+    font-family: 'Roboto';
+    font-size: 20px;
+    font-weight : bold;
+    font-style: italic;
+}
+.button-access{
+    border-color: transparent;
+  border-radius: none;
+  background-color: white;
+}
+.arrow-icon{
+    width: 20px;
+}
